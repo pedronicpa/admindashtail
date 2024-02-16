@@ -1,0 +1,25 @@
+{
+    "name": "pedronicpa/admindashtail",
+    "description": "Plantilla de tailwind css 2024",   
+    "type": "library",
+    "require": {
+
+        "guzzlehttp/guzzle": "^7.4"
+    },
+
+    "license": "MIT",
+    
+    "autoload": {
+        "psr-4": {
+            "Pedronicpa\\Admindashtail\\": "src/"
+        }
+    },
+    
+    "authors": [
+        {
+            "name": "pedronicpa",
+            "email": "pedronicpa@gmail.com"
+        }
+    ]
+    
+}
